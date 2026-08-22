@@ -1,7 +1,0 @@
-node_modules/
-2-advanced-examples/
-cypress.config.js
-package-lock.json
-package.json
-todo.cy.js
-example.json
